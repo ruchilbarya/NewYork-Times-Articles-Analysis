@@ -1,5 +1,6 @@
 # NewYork Times Articles Analysis
-_An Analysis based on Natural Language Processing(Factor Analysis and Sentiment Analysis)_
+_Factor Analysis and Sentiment Analysis_
+_An Analysis based on Natural Language Processing_
 
  The goal of this research is to understand how Mental Health has been talked over the years by analyzing The Newyork Times articles. This research includes the analysis of 10,963 articles from year 1987 to 2017 which mentions ‘mental health’. As part of this analysis, main themes and overall tone of the articles published in 20th century and 21st century is identified. 
  
