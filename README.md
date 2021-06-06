@@ -20,5 +20,8 @@ For Factor Analysis, the data was converted to a Document-Term Matrix with the h
 
 For Sentiment Analysis, the original data was used with features ‘Year’ and ‘Text’. The pre-processing of the data was done in python. The data was split into two 20th century and 21st century similarly as Factor Analysis.
 
-The project code along with report can be found at the attached document file NYTimes_Analysis.docx.
+The project code along with report can be found in the attached documents - 
+* NYTimes_SentimentAnalysis.rmd has Sentiment Analysis Code 
+* NYTimes_FactorAnalysis.rmd has Factor Analysis Code
+* NYTimes_Analysis.docx. is a final written report of all the findings.
 
